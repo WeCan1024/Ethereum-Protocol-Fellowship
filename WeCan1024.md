@@ -47,7 +47,7 @@ timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
 
 timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
 
-timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
+
 
 ---
 
